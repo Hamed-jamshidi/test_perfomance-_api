@@ -1,0 +1,10 @@
+{'firstname': 'Jennifer', 'lastname': 'Craig', 'username': 'Cassidy11', 'email': 'watkinsvanessa@example.net', 'password': 1853, 'isadmin': False}
+{'firstname': 'Taylor', 'lastname': 'Allen', 'username': 'Hannah33', 'email': 'emahoney@example.net', 'password': 5789, 'isadmin': False}
+{'firstname': 'Sara', 'lastname': 'Nelson', 'username': 'William78', 'email': 'russell06@example.net', 'password': 8602, 'isadmin': False}
+{'firstname': 'Michael', 'lastname': 'Hill', 'username': 'Joseph59', 'email': 'ggray@example.net', 'password': 6074, 'isadmin': False}
+{'firstname': 'Nancy', 'lastname': 'Proctor', 'username': 'Tonya69', 'email': 'michael75@example.org', 'password': 7551, 'isadmin': False}
+{'firstname': 'Joshua', 'lastname': 'Caldwell', 'username': 'Jennifer98', 'email': 'jennifer05@example.org', 'password': 9170, 'isadmin': False}
+{'firstname': 'Martin', 'lastname': 'Lester', 'username': 'Justin60', 'email': 'ghurst@example.org', 'password': 7300, 'isadmin': False}
+{'firstname': 'Angela', 'lastname': 'Holmes', 'username': 'Madison28', 'email': 'tapiasarah@example.org', 'password': 6122, 'isadmin': False}
+{'firstname': 'Susan', 'lastname': 'Parks', 'username': 'Connie70', 'email': 'patrickkelly@example.com', 'password': 8524, 'isadmin': False}
+{'firstname': 'Joseph', 'lastname': 'Howell', 'username': 'Kirk92', 'email': 'whitakercarol@example.org', 'password': 4358, 'isadmin': False}
