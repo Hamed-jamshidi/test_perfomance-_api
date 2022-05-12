@@ -20,7 +20,7 @@ for _ in range(10):
     print(response.status_code)
     if(response.status_code == 200):
         print(response.json())
-        with open('readme.txt', "a") as f:
+        with open('test_user.txt', "a") as f:
             f.writelines(str(my_dic))
             f.write('\n')
             f.close()
@@ -31,7 +31,4 @@ print(delta)
 
 
 
-# file= open("C:\\Users\\hamed\\PycharmProjects\\test_api\\readme.txt",'r')
-# json_input = file.read()
-# requests_json = json.loads(file.read())
-# print(requests_json)
+
