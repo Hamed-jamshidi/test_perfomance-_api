@@ -5,27 +5,6 @@ import time
 import json
 import random
 URL = 'http://localhost:3008/api/authAdmin/login'
-# with open('readme.txt', "r") as f:
-#     for line in f:
-#         lines = f.readlines()
-#         print(lines)
-    # for line in f:
-
-    # line = random.choice(result)
-    # print(line)
-    # lines = random.choices(result, k=150)
-    # print(lines[0][5])
-    # f.close()
-
-
-    # for line in result:
-    #     for _ in range(150):
-    #         word = random.choices(line, k=150)
-    #         print(word)
-    #         # print(word[5])
-    #         # print(word[9])
-    # f.close()
-
 
 def fetch(session, url):
     data = {"username": "Justin60", "password": 7300}
